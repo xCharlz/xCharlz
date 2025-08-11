@@ -1,13 +1,5 @@
-<p align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" alt="Hacker coding" />
-</p>
-
 # 👋 Hola, soy **Carlos Ramirez**
 
-💻 **Full Stack Dev** | 🛠️ Creador de soluciones digitales  
-⚡ Amante del código sucio, la desautomatización y los desafíos técnicos.
-
----
 
 ## 🧠 Stack de Tecnologías
 
