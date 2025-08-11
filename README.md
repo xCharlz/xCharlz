@@ -4,8 +4,8 @@
 
 # 👋 Hola, soy **Carlos Ramirez**
 
-💻 **Full Stack Developer** | 🛠️ Creador de soluciones digitales  
-⚡ Amante del código limpio, la automatización y los desafíos técnicos.
+💻 **Full Stack Dev** | 🛠️ Creador de soluciones digitales  
+⚡ Amante del código sucio, la desautomatización y los desafíos técnicos.
 
 ---
 
