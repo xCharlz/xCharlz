@@ -19,15 +19,6 @@
 
 ---
 
-## 📊 Mis Stats de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCharlz&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCharlz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🚀 Cosas que me motivan
 - 💡 Crear herramientas que faciliten la vida de las personas.
 - 🔐 Entender cómo funciona la tecnología "detrás de escena".
