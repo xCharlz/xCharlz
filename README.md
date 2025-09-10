@@ -27,12 +27,6 @@
 
 ---
 
-## 📫 Contacto
-
-[![Email](https://img.shields.io/badge/Email-c.ramirezlxs@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosramirez@ejemplo.com)
-
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=while(alive){code();};Hola+Mundo!;Let's+build+something+amazing" alt="Typing animation" />
