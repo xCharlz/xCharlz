@@ -7,7 +7,7 @@
 💻 Lenguajes:   JavaScript | TypeScript | PHP | Python
 ⚙️ Backend:     Node.js | Laravel
 🎨 Frontend:    Vue.js
-🐳 DevOps:      Docker
+🐳 DevOps:      Docker 
 📂 Control:     Git 
 ```
 
