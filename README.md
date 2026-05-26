@@ -8,7 +8,7 @@
 ⚙️ Backend:     Node.js | Laravel
 🎨 Frontend:    Vue.js
 🐳 DevOps:      Docker
-📂 Control:     Git 
+📂 Control:     Git
 ```
 
 ---
