@@ -1,7 +1,6 @@
 # 👋 Hola, soy **Carlos Ramirez**
 
 
-
 ## 🧠 Stack de Tecnologías
 
 ```txt
